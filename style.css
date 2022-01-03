@@ -1,0 +1,30 @@
+#news{
+    color: rgb(18, 235, 101);
+    text-align: center;
+}
+span{
+    color: rgb(19, 204, 118);
+    font-size: 16px;
+}
+.Blog{
+    color: white;
+    border: 10px solid rgb(196, 124, 124);
+    border-radius: 15px;
+    background-color: darkslategrey;
+    margin: 30px 100px 50px 100px;
+    padding: 20px;
+    text-align: center;
+    text-align: justify;
+}
+
+
+h1{
+    color: rgb(9, 64, 148);
+    text-align: center;
+}
+#service{
+    color: rgb(150, 216, 17);
+}
+#team{
+    color: rgb(221, 112, 10);
+}
